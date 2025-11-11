@@ -1,2 +1,2 @@
 alert('this is my first project');
-alert("put it in repo");
+alert("put it in repo hi");
